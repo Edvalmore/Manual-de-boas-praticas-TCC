@@ -16,6 +16,6 @@ Investigar e sintetizar as melhores práticas, tecnologias, desafios e oportunid
 ## 📂 Estrutura do Repositório
 
 ```bash
-├── /Manual_Boas_Praticas_IoT.pdf/                              # Arquivo do Guia de Boas Práticas
 ├── /TCC_Internet_das_Coisas_Edvalmore.pdf/                     # Trabalho de Conclusão de Curso completo
+├── /Manual_Boas_Praticas_IoT.pdf/                              # Arquivo do Guia de Boas Práticas
 └── README.md                                                   # Este arquivo
